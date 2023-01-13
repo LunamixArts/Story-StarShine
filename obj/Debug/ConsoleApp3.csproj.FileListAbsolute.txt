@@ -1,0 +1,12 @@
+C:\Users\Rcram\OneDrive\Desktop\C#  practice\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Rcram\OneDrive\Desktop\C#  practice\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\Rcram\OneDrive\Desktop\C#  practice\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\Rcram\OneDrive\Desktop\C#  practice\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\Rcram\OneDrive\Desktop\C#  practice\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rcram\OneDrive\Desktop\C#  practice\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\Rcram\OneDrive\Desktop\C#  practice\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\Rcram\OneDrive\Desktop\C#  practice\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\Rcram\OneDrive\Desktop\C#  practice\ConsoleApp3\bin\Debug\ConsoleApp3.exe.manifest
+C:\Users\Rcram\OneDrive\Desktop\C#  practice\ConsoleApp3\bin\Debug\ConsoleApp3.application
+C:\Users\Rcram\OneDrive\Desktop\C#  practice\ConsoleApp3\obj\Debug\ConsoleApp3.exe.manifest
+C:\Users\Rcram\OneDrive\Desktop\C#  practice\ConsoleApp3\obj\Debug\ConsoleApp3.application
